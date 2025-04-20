@@ -1,0 +1,184 @@
+{
+    "header": {
+        "aboutMe": "About me",
+        "educationExperience": "Education and Experience",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact me"
+      },
+      "timeline": {
+    "university": "University",
+    "institution": "Escuela Politecnica Nacional",
+    "degree": "Computing Science Engineer 2017-2023"
+  },
+
+ "experience": {
+    "title": "Experience",
+    "timeline": {
+      "positions": {
+        "itIntern": "IT Intern",
+        "dataAnalystIntern": "Data Analyst Intern",
+        "backEndDeveloper": "Back End Developer",
+        "developer": "Developer"
+      },
+      "companies": {
+        "hotelQuito": "Hotel Quito",
+        "caf": "CAF - Development Bank of Latin America",
+        "virtusProject": "Virtus Project",
+        "laCompetencia": "La Competencia S.A"
+      },
+      "dates": {
+        "hotelQuito": "April 2021 - June 2021",
+        "caf": "October 2022 - March 2023",
+        "virtusProject": "July 2022 - September 2023",
+        "laCompetencia": "October 2023 - Present"
+      },
+      "skills": {
+        "hotelQuito": "SQL Server, Power BI, Windows Server, Active Directory, Mikrotik",
+        "caf": "Power BI, Python, Excel",
+        "virtusProject": "Node JS, React JS, MongoDB, Docker, Hetzner",
+        "laCompetencia": "Node JS, Angular JS, Java, Spring Boot, C#, .Net Framework, SQL Server, PostgreSQL"
+      }
+    }
+    },
+
+
+    "aboutMe": {
+      "title": "About me",
+      "paragraph1": "Hello, my name is Boris Caiza and I am a Computer Science Engineering graduate from the Escuela Politécnica Nacional.",
+      "paragraph2": "I like web and mobile development, I also have knowledge in networks and artificial intelligence and machine learning",
+      "downloadCV": "Download my CV ENGLISH",
+      "downloadCVES": "Download my CV SPANISH"
+    },
+    "education": {
+      "title": "Education"
+    },
+    "workExperience": {
+      "title": "Work experience"
+    },
+    "skills": {
+      "title": "Skills",
+      "languages": {
+        "title": "Languages",
+        "lookButton": "Look",
+        "modalTitle": "Languages",
+        "spanish": "Spanish: Native",
+        "english": "English: Advanced"
+      },
+      "programming": {
+        "title": "Programming",
+        "lookButton": "Look",
+        "modalTitle": "Programming",
+        "javascript": "JavaScript",
+        "java": "Java",
+        "python": "Python",
+        "csharp": "C#",
+        "php": "PHP",
+        "typescript": "TypeScript",
+        "golang": "Go"
+      },
+      "databases": {
+        "title": "Databases",
+        "lookButton": "Look",
+        "modalTitle": "Databases",
+        "mysql": "MySQL",
+        "sqlServer": "SQL Server",
+        "postgresql": "PostgreSQL",
+        "mongodb": "MongoDB",
+        "firebase": "Firebase"
+      },
+      "operatingSystem": {
+        "title": "Operating System",
+        "lookButton": "Look",
+        "modalTitle": "Operating Systems",
+        "windows": "Windows",
+        "linux": "Linux"
+      },
+      "tools": {
+        "title": "Tools And Frameworks",
+        "lookButton": "Look",
+        "modalTitle": "Tools And Frameworks",
+        "powerBI": "Power BI",
+        "docker": "Docker",
+        "angularJS": "Angular JS",
+        "reactJS": "React JS",
+        "nodeJS": "Node JS",
+        "unity": "Unity",
+        "flask": "Flask",
+        "springBoot": "Spring Boot",
+        ".netFramework": ".Net Framework",
+        "hetzner": "Hetzner",
+        "reactnative": "React Native"
+      }
+    },
+    "projects": {
+      "title": "My Projects",
+      "slenderGame": {
+        "title": "Slender Game",
+        "description": "Game similar to the famous Slenderman game. You can play in the browser or you can download the apk file for android phones.",
+        "playBrowser": "Play in the browser",
+        "downloadApk": "Download the apk for Android cellphones"
+      },
+      "frogHarvesting": {
+        "title": "Frog Harvesting",
+        "description": "2D game where you have to catch all the available fruits",
+        "playBrowser": "Play in the browser",
+        "downloadApk": "Download the apk for Android cellphones"
+      },
+      "shooter": {
+        "title": "Shooter",
+        "description": "Third person shooter",
+        "playBrowser": "Play in the browser"
+      },
+      "gifSearch": {
+        "title": "Gif Search Engine",
+        "description": "GIF search engine made in Angular",
+        "tryBrowser": "Try it in the Browser"
+      },
+      "pokedesk": {
+        "title": "Pokedesk",
+        "description": "Pokemon finder made in React",
+        "tryBrowser": "TRY IT IN THE BROWSER"
+      },
+      "cubigHunting": {
+        "title": "Cubig Hunting",
+        "description": "First Person game, you have to destroy all red cubes",
+        "playBrowser": "Play in the browser",
+        "downloadApk": "Download the apk for Android cellphones"
+      },
+      "mapApp": {
+        "title": "Application similar to Google Maps",
+        "description": "Made In Angular",
+        "tryBrowser": "Try it in the browser"
+      }
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send"
+    },
+    "social": {
+      "title": "My Social Networks",
+      "phone": "+593991320401"
+    },
+    "alerts": {
+      "success": {
+        "title": "Your email has been sent!",
+        "text": "Thanks for contacting me!"
+      },
+      "error": {
+        "title": "Oops something went wrong!",
+        "text": "Try again!"
+      }
+    },
+    "footer": {
+      "copyright": "Boris Caiza 2023"
+    }
+  }
+  }

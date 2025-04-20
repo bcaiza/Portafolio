@@ -1,0 +1,25 @@
+.icons {
+    list-style: none;
+}
+
+
+.icons span {
+
+    font-size: 1rem;
+}
+
+.icon {
+    font-size: 3rem;
+}
+
+li:hover{
+    color: #bb2d3b;
+}
+
+.final{
+    background-color: black;
+}
+
+.final span{
+    color: white;
+}

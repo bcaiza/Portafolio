@@ -1,0 +1,184 @@
+{
+    "header": {
+    "aboutMe": "Sobre mí",
+    "educationExperience": "Educación y Experiencia",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contáctame"
+  },
+
+  "timeline": {
+    "university": "Universidad",
+    "institution": "Escuela Politécnica Nacional",
+    "degree": "Ingeniero en Ciencias de la Computación 2017-2023"
+  },
+
+  "experience": {
+    "title": "Experiencia",
+    "timeline": {
+      "positions": {
+        "itIntern": "Pasante de TI",
+        "dataAnalystIntern": "Pasante de Analista de Datos",
+        "backEndDeveloper": "Desarrollador Back End",
+        "developer": "Desarrollador"
+      },
+      "companies": {
+        "hotelQuito": "Hotel Quito",
+        "caf": "CAF - Banco de Desarrollo de América Latina",
+        "virtusProject": "Virtus Project",
+        "laCompetencia": "La Competencia S.A"
+      },
+      "dates": {
+        "hotelQuito": "Abril 2021 - Junio 2021",
+        "caf": "Octubre 2022 - Marzo 2023",
+        "virtusProject": "Julio 2022 - Septiembre 2023",
+        "laCompetencia": "Octubre 2023 - Presente"
+      },
+      "skills": {
+        "hotelQuito": "SQL Server, Power BI, Windows Server, Active Directory, Mikrotik",
+        "caf": "Power BI, Python, Excel",
+        "virtusProject": "Node JS, React JS, MongoDB, Docker, Hetzner",
+        "laCompetencia": "Node JS, Angular JS, Java, Spring Boot, C#, .Net Framework, SQL Server, PostgreSQL"
+      }
+    }
+  },
+    "aboutMe": {
+      "title": "Sobre mí",
+      "paragraph1": "Hola, mi nombre es Boris Caiza y soy graduado en Ingeniería en Ciencias de la Computación de la Escuela Politécnica Nacional.",
+      "paragraph2": "Me gusta el desarrollo web y móvil, también tengo conocimientos en redes, inteligencia artificial y aprendizaje automático",
+      "downloadCV": "Descargar mi CV en INGLÉS",
+      "downloadCVES": "Descargar mi CV en ESPAÑOL"
+    },
+    "education": {
+      "title": "Educación"
+    },
+    "workExperience": {
+      "title": "Experiencia laboral"
+    },
+    "skills": {
+      "title": "Habilidades",
+      "languages": {
+        "title": "Idiomas",
+        "lookButton": "Ver",
+        "modalTitle": "Idiomas",
+        "spanish": "Español: Nativo",
+        "english": "Inglés: Avanzado"
+      },
+      "programming": {
+        "title": "Programación",
+        "lookButton": "Ver",
+        "modalTitle": "Programación",
+        "javascript": "JavaScript",
+        "java": "Java",
+        "python": "Python",
+        "csharp": "C#",
+        "php": "PHP",
+        "golang": "Go",
+        "typescript": "TypeScript"
+
+      },
+      "databases": {
+        "title": "Bases de datos",
+        "lookButton": "Ver",
+        "modalTitle": "Bases de datos",
+        "mysql": "MySQL",
+        "sqlServer": "SQL Server",
+        "postgresql": "PostgreSQL",
+        "mongodb": "MongoDB",
+        "firebase": "Firebase"
+      },
+      "operatingSystem": {
+        "title": "Sistemas operativos",
+        "lookButton": "Ver",
+        "modalTitle": "Sistemas operativos",
+        "windows": "Windows",
+        "linux": "Linux"
+      },
+      "tools": {
+        "title": "Herramientas y Frameworks",
+        "lookButton": "Ver",
+        "modalTitle": "Herramientas y Frameworks",
+        "powerBI": "Power BI",
+        "docker": "Docker",
+        "angularJS": "Angular JS",
+        "reactJS": "React JS",
+        "nodeJS": "Node JS",
+        "unity": "Unity",
+        "flask": "Flask",
+        "springBoot": "Spring Boot",
+        ".netFramework": ".Net Framework",
+        "hetzner": "Hetzner",
+        "reactnative": "React Native"
+      }
+    },
+    "projects": {
+      "title": "Mis proyectos",
+      "slenderGame": {
+        "title": "Juego Slender",
+        "description": "Juego similar al famoso juego Slenderman. Puedes jugar en el navegador o descargar el archivo apk para teléfonos Android.",
+        "playBrowser": "Jugar en el navegador",
+        "downloadApk": "Descargar apk para teléfonos Android"
+      },
+      "frogHarvesting": {
+        "title": "Frog Harvesting",
+        "description": "Juego 2D donde tienes que atrapar todas las frutas disponibles",
+        "playBrowser": "Jugar en el navegador",
+        "downloadApk": "Descargar apk para teléfonos Android"
+      },
+      "shooter": {
+        "title": "Shooter",
+        "description": "Shooter en tercera persona",
+        "playBrowser": "Jugar en el navegador"
+      },
+      "gifSearch": {
+        "title": "Buscador de Gifs",
+        "description": "Motor de búsqueda de GIFs hecho en Angular",
+        "tryBrowser": "Pruébalo en el navegador"
+      },
+      "pokedesk": {
+        "title": "Pokedesk",
+        "description": "Buscador de Pokémon hecho en React",
+        "tryBrowser": "PRUÉBALO EN EL NAVEGADOR"
+      },
+      "cubigHunting": {
+        "title": "Cubig Hunting",
+        "description": "Juego en primera persona, tienes que destruir todos los cubos rojos",
+        "playBrowser": "Jugar en el navegador",
+        "downloadApk": "Descargar apk para teléfonos Android"
+      },
+      "mapApp": {
+        "title": "Aplicación similar a Google Maps",
+        "description": "Hecha en Angular",
+        "tryBrowser": "Pruébalo en el navegador"
+      }
+    },
+    "contact": {
+      "title": "Contacto"
+    },
+    "contact": {
+    "title": "Contacto",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "send": "Enviar"
+    },
+    "social": {
+      "title": "Mis Redes Sociales",
+      "phone": "+593991320401"
+    },
+    "alerts": {
+      "success": {
+        "title": "¡Tu correo ha sido enviado!",
+        "text": "¡Gracias por contactarme!"
+      },
+      "error": {
+        "title": "¡Ups, algo salió mal!",
+        "text": "¡Intenta de nuevo!"
+      }
+    },
+    "footer": {
+      "copyright": "Boris Caiza 2023"
+    }
+  }
+  }
